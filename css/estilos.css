@@ -1,7 +1,19 @@
 body{
-    background: gainsboro;
+    background-color: gray;
 }
 
-
-
+.boton{
+    text-decoration: none;
+    padding: 5  px;
+    font-family: arial;
+    text-transform: uppercase;
+    padding-left: 10px;
+    padding-right: 10px;
+    font-weight: 800;
+    font-size: 25px;
+    color: white;
+    background-color:orange;
+    width: 200;
+    height:20;
+  }
 
